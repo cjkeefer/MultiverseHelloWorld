@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MultiverseHelloWorld": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
